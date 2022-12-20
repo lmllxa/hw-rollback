@@ -1,0 +1,3 @@
+└── template.yml            # Change the KeyName property value       
+└── .circleci
+    └── config.yml          # Look for the create_infrastructure Job and destroy_environment command. 
